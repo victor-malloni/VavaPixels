@@ -1,3 +1,3 @@
 package com.example.vavapixels.models
 
-data class Pixel(var title: String, var autor: String, var thumbnailURL: String, var link: String)
+data class Pixel(var titulo: String, var autor: String, var thumbnailUrl: String, var link: String)
